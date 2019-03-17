@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/pokemon_pokemon_trainer.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/pokemon_pokemons.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/pokemon_trainers.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/pokemon_types.sql" dialect="MySQL" />
+  </component>
+</project>
